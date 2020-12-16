@@ -14,3 +14,6 @@ https://docs.python.org/3/library/venv.html
 - PyTorch Tutorial 02 - Install PyTorch Windows 10 Anaconda :heavy_check_mark:
 - PyTorch Tutorial 03 - PyTorch Tensors Tutorial :heavy_check_mark:
 - PyTorch Tutorial 04 - PyTorch Tensor Operations :heavy_check_mark:
+- PyTorch Tutorial 05 - Math and Stats in PyTorch Tensors :heavy_check_mark:
+- PyTorch Tutorial 06 - Named Tensor PyTorch :heavy_check_mark:
+- PyTorch Tutorial 07 - Data Types in PyTorch :heavy_check_mark:
