@@ -17,3 +17,8 @@ https://docs.python.org/3/library/venv.html
 - PyTorch Tutorial 05 - Math and Stats in PyTorch Tensors :heavy_check_mark:
 - PyTorch Tutorial 06 - Named Tensor PyTorch :heavy_check_mark:
 - PyTorch Tutorial 07 - Data Types in PyTorch :heavy_check_mark:
+- PyTorch Tutorial 08 - Type Casting in PyTorch :heavy_check_mark:
+- PyTorch Tutorial 09 - Storage in PyTorch :heavy_check_mark:
+- PyTorch Tutorial 10 - In place operator in PyTorch :heavy_check_mark:
+- PyTorch Tutorial 11 - Transpose of a tensor in PyTorch :heavy_check_mark:
+- PyTorch Tutorial 12 - Size, Offset and Stride in PyTorch :heavy_check_mark:
