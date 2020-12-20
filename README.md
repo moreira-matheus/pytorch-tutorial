@@ -22,3 +22,7 @@ https://docs.python.org/3/library/venv.html
 - PyTorch Tutorial 10 - In place operator in PyTorch :heavy_check_mark:
 - PyTorch Tutorial 11 - Transpose of a tensor in PyTorch :heavy_check_mark:
 - PyTorch Tutorial 12 - Size, Offset and Stride in PyTorch :heavy_check_mark:
+- PyTorch Tutorial 13 - Import CSV file in PyTorch :heavy_check_mark:
+- PyTorch Tutorial 14 - One Hot Encoding PyTorch :heavy_check_mark:
+- PyTorch Tutorial 15 - Data Normalization in PyTorch :heavy_check_mark:
+- PyTorch Tutorial 16 - Gradient Calculation With AutoGrad :heavy_check_mark:
